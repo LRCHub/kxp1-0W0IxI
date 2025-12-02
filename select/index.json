@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "電光少女",
+  "base_artist": "UtaKata",
+  "createdAt": "2025-12-02T10:01:50.859782Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "電光少女",
+      "artist": "UtaKata",
+      "has_synced": false,
+      "path": "select/pl_01_電光少女_UtaKata.txt"
+    }
+  ]
+}
